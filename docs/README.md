@@ -12,3 +12,4 @@
 ## Updates
 - Added rectangle.py with area and perimeter functions
 - Added triangle.py with area and perimeter functions
+- Adriana Pikaljov
